@@ -6,6 +6,5 @@ int main()
 {
   cout<<"hello github"<<endl;
   cout<<"hellob"<<endl;
-  int j;
   return 0;
 }
